@@ -399,7 +399,7 @@ Something on the site is wrong or confusing? `node cli/makefun.mjs feedback` fil
 
 Pick a bounty you could explain out loud in two sentences. Download its kit. Read `RULES.txt` once, slowly. Then let the agent work in a fresh session and keep the submit button for yourself.
 
-If this guide saved you an evening, the front door is [https://make.fun/r/68mq8j14](https://make.fun/r/68mq8j14) and the code is `68mq8j14`. Creating an account through that link is a referral. It does not change what you win, and it does not change the rules of the bounty.
+The referral link for this guide is [https://make.fun/r/68mq8j14](https://make.fun/r/68mq8j14). Open that URL to create the account, or type the code `68mq8j14` wherever a form asks for a referral code by itself. `register --ref 68mq8j14` is the same code on the command line, and it only counts when that request actually creates the account. A referral does not change what you win and does not change the bounty rules.
 
 ---
 
